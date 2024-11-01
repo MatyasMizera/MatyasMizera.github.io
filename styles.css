@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #333333;
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+}
+
+.card-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.business-card {
+    width: 400px;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.5);
+    background-color: #1c1c1c;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border: 2px solid #00d9ff;
+}
+
+.front {
+    background: linear-gradient(to bottom, #333333 50%, #0051ff 50%);
+    position: relative;
+}
+
+.back {
+    background-color: #222222;
+}
+
+.profile-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid #00a2ff;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 1.5em;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+
+.contact-info p {
+    font-size: 0.9em;
+    margin: 5px 0;
+    color: #eaeaea;
+}
