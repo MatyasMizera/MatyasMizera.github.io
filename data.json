@@ -1,0 +1,51 @@
+[
+    {
+        "keywords": [
+            "doručení",
+            "doprava",
+            "jak dlouho trvá doručení",
+            "kdy dorazí"
+        ],
+        "answer": "Objednávky obvykle doručujeme do 2–3 pracovních dnů.",
+        "name": "Jan Novák"
+    },
+    {
+        "keywords": [
+            "vrácení",
+            "vrátit",
+            "reklamace",
+            "vrácení zboží"
+        ],
+        "answer": "Zboží můžete vrátit do 14 dnů od jeho převzetí.",
+        "name": "Petra Svobodová"
+    },
+    {
+        "keywords": [
+            "platba",
+            "zaplatit",
+            "platba kartou",
+            "paypal"
+        ],
+        "answer": "Platbu můžete provést kartou nebo bankovním převodem.",
+        "name": "Tomáš Dvořák"
+    },
+    {
+        "keywords": [
+            "kontakt",
+            "telefon",
+            "email",
+            "e-mail"
+        ],
+        "answer": "Kontaktovat nás můžete každý pracovní den od 8:00 do 16:00.",
+        "name": "Lucie Černá"
+    },
+    {
+        "keywords": [
+            "otevírací doba",
+            "otevřeno",
+            "otevírací hodiny"
+        ],
+        "answer": "Naše zákaznická podpora je dostupná v pracovní dny od 8:00 do 16:00.",
+        "name": "Martin Veselý"
+    }
+]
